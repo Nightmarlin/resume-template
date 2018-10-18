@@ -81,7 +81,7 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid #383838; // #c7c7c7
+  border-top: 2px solid #a4f9ff; //#383838; // #c7c7c7
   padding-top: .4rem;
 
   @include media_larger_than_mobile {
@@ -111,7 +111,7 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #101010; // #efefef
+  background-color: #0c1217; //#101010; // #efefef
   text-decoration: none;
   text-align: center;
   display: block;
@@ -174,7 +174,7 @@
 
       &:hover {
         border-bottom: none;
-        color: #9c9c9c;
+        color: #6A9C9B; // 9c9c9c
       }
     }
   }
@@ -185,7 +185,7 @@
 // footer styles
 
 .page-footer {
-  border-top: 4px solid #383838;
+  border-top: 4px solid #a4f9ff; //#383838;
   padding-top: 1.5rem;
   text-align: center;
   margin-bottom: 3rem;
