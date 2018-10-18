@@ -23,7 +23,7 @@ resume_contact_telephone:       "+447798887549"
 resume_header_contact_info:     "07798887549 • lmiller81694@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p></p>"
+resume_header_intro: "<p>I am an A-Level student studying at Bournemouth School for Boys. I have</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,9 +36,9 @@ resume_header_intro: "<p></p>"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
+#resume_section_skills:          true
 #resume_section_recognition:     true
-resume_section_links:           true
+#resume_section_links:           true
 resume_section_associations:    true
 resume_section_interests:       true
 

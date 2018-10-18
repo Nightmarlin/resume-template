@@ -4,7 +4,7 @@
 - organization: Bournemouth School Computing Society
   role: Workshop Leader - Society Organiser
   year: 2018 &mdash; Present
-  url: https://gitlab.com/bs-computing
+  url: "https://gitlab.com/bs-computing"
   summary: >
       Helped to organise and run the school Computing Society, as well as lead a workshop teaching younger students
       how to use C#'s Object Orientation, Types and Libraries to build a Discord 'Bot.
@@ -13,7 +13,22 @@
 - organization: Elgar House Charity
   role: Volunteer - Events and Management
   year: 2018
-#  url: http://campuspress.yale.edu/amnesty/
+#  url:
   summary: >
       Helped to organise the yearly House Charity week for my house, including ideas generation and running events.
 
+- organization: Scouts
+  role: Explorer Scout
+  year: 2007 &mdash; Present
+  url: "https://scouts.org.uk/home/"
+  summary: >
+      Participating in activities built around personal growth, teamwork and broadening horizons. I have attended
+      Scouting meetings since "Beavers" and have since completed many badges as part of my time there.
+
+- organization: NCS
+  role: Participant
+  year: 2017
+  url: "https://www.ncsyes.co.uk/"
+  summary: >
+      Participated in the summer 2017 course lasting 4 weeks. Learnt basic First Aid, gained insight into how modern
+      councils function and helped run a Social Action project at Turlin Moor Infant School.

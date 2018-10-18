@@ -15,7 +15,7 @@
 - project: Snake [C#]
   role: Primary Developer
   duration: 2018
-  url: https://github.com/Nightmarlin/CS-Snake
+  url: "https://github.com/Nightmarlin/CS-Snake"
   description: >
       This was a small project I created to help me get a better understanding of how Graphics in C# work, as well as
       attempt to help my classmates in understanding the .NET DoubleBuffered property.
@@ -24,7 +24,7 @@
 - project: C4 - Multiplayer Connect 4 [VB]
   role: Developer
   duration: 2018
-  url: https://github.com/strideynet/Connect4-Multiplayer-Client
+  url: "https://github.com/strideynet/Connect4-Multiplayer-Client"
   description: >
       This was my first time pair-programming, and I think it went particularly well. While Noah handled a large amount
       of the server-side operation (and created a basic Connect4 application because our teacher told us we had to),
@@ -36,7 +36,7 @@
 - project: T3 - Noughts and Crosses with Replay Abilities [VB]
   role: Primary Developer
   duration: 2017
-  url: https://github.com/Nightmarlin/VB---T3
+  url: "https://github.com/Nightmarlin/VB---T3"
   description: >
       My second VB project was a version of the traditional children's game Tic Tac Toe (-> TTT -> T3). I wanted to
       experiment with file handling and decided that a useful feature to do this with would be the ability to replay
