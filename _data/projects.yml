@@ -5,11 +5,12 @@
 - project: "FIRAbot [JS] / ComSocBot [C#]"
   role: Primary Developer
   duration: "2016 &mdash; Present"
-  #url:
+  url: "https://github.com/Nightmarlin/DSharp_Bot_1"
   description: >
       FIRAbot and ComSocBot are server management 'bots for the communication client Discord. FIRAbot was written in
       JavaScript using Discord.js and ComSocBot is written in C# using DSharpPlus. Both applications required me to
       learn a new API and allowed me to gain a deeper insight into how APIs work and the work that goes into using them.
+      [This hyperlink will take you to ComSocBot's GitHub repo]
 
 # Snake
 - project: "Snake [C#]"
