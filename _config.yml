@@ -33,6 +33,7 @@ resume_header_intro: >
       <li>Python</li>
     </ul>
     And am always willing to learn new languages and frameworks.
+    Check out my <a href="https://blog.lwmiller.co.uk">blog</a> for a more recent peek at what I do
     </p>
 
 # use "yes" to display the email contact button,
@@ -43,12 +44,12 @@ resume_header_intro: >
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+#resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-#resume_section_skills:          true
+resume_section_skills:          true
 #resume_section_recognition:     true
-#resume_section_links:           true
+resume_section_links:           true
 resume_section_associations:    true
 resume_section_interests:       true
 

@@ -1,12 +1,39 @@
 # Skills
-# Organisational leadership
-- skill: Organisational Leadership
-  description:
+# Yes
+- skill: Organisation and Leadership
+  description: >
+      Despite our best attempts, the school computing society runs every week. We organise competitions
+      and help teach younger students what we know. It's wholesome and fulfilling work.
 
-# No
-- skill: Yes
-  description: Something
+# Yes
+- skill: C\# (and VB) with .NET (Frameworks and Core)
+  description: >
+      It was going to be just VB, but then I saw the light. VB is the language taught for my A-Level course as not
+      everyone had programmed before that point and it makes a decent introductory language. A friend of mine showed
+      me C# and I decided to switch to that. I have since made many programs, including a smaller version of Scratch
+      and my own Snake game. I have also become ~~worryingly~~ very familiar with MSDocs'
+      <a href="https://docs.microsoft.com/en-gb/dotnet/">.NET Documentation</a> since starting my course.
 
-# No
-- skill: Yes
-  description: Something
+# Yes
+- skill: Object Orientated Programming
+  description: >
+      OOP is one of the major forms of modern programming. It is reliable, fast and easy to maintain. As such it is a
+      requirement of any modern programmer to be able to effectively utilise OOP techniques. I can! Check out my
+      coursework on <a href="https://github.com/Nightmarlin/Coursework">GitHub</a> for proof
+      (After the hand-in date that is)
+
+# Yes
+- skill: Adaptability
+  description: >
+      As much as I would like to be a good web developer, I'm not there yet. On the plus side there are many
+      frameworks available for me to build a site with. I'm currently learning the ropes with Jekyll, both on this
+      site and on my <a href="https://blog.lwmiller.co.uk">blog</a>, as well as working with GitHub Pages to keep
+      them up to date no matter where I am.
+      I have also been fiddling with React Native and am considering Flutter, but will first need to find a project to
+      build such an app for...
+
+- skill: Unit testing
+  description: >
+      A good dev writes good code. A great dev writes tests that showcase how that code should work. Checkout
+      <a href="">PXL</a> for evidence that I'm a great dev (just ignore the fact that it's unfinished: school's
+      taking up quite a lot of my time). Thanks XUnit

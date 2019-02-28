@@ -1,5 +1,12 @@
 # links
 - url: "https://lwmiller.co.uk"
-  description: My website
-- url: "#"
-  description: This page
+  description: My website. Currently redirects to here
+
+- url: "https://github.com/nightmarlin"
+  description: My github profile. There's not a lot on here, but what is here is high quality content
+
+- url: "https://pxl.lwmiller.co.uk"
+  description: The README.md for PXL, a project that I am yet to finish
+
+- url: "https://blog.lwmiller.co.uk"
+  description: My blog! Follow it to keep up to date with the minutiae of my existence. Or don't. It's your choice
